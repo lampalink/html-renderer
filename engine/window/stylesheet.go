@@ -1,8 +1,8 @@
 package window
 
 import (
-	"htmlrenderer/engine"
-	"htmlrenderer/engine/tags"
+	"github.com/lampalink/html-renderer/engine"
+	"github.com/lampalink/html-renderer/engine/tags"
 )
 
 // StyleSheet -

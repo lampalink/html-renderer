@@ -3,7 +3,7 @@ package tags
 import (
 	"fmt"
 
-	"htmlrenderer/engine"
+	"github.com/lampalink/html-renderer/engine"
 )
 
 // DIVAttrs -

@@ -3,7 +3,7 @@ package window
 import (
 	"fmt"
 
-	"htmlrenderer/engine"
+	"github.com/lampalink/html-renderer/engine"
 )
 
 // Render -

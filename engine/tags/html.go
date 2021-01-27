@@ -1,7 +1,7 @@
 package tags
 
 import (
-	"htmlrenderer/engine"
+	"github.com/lampalink/html-renderer/engine"
 )
 
 // HTMLAttrs -
